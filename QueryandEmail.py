@@ -1,6 +1,5 @@
 import pymssql
 import pandas as pd
-import numpy as np
 import pymssql
 import datetime
 from O365 import Message, Account, FileSystemTokenBackend, oauth_authentication_flow
